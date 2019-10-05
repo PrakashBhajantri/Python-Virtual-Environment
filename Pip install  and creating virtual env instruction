@@ -1,0 +1,8 @@
+# Creating Virtual Environment Using Virtualenv
+- Download the get_pip.py file
+- Optional (Install python if your are not installed before)
+- Then run it command prompt(as administrator),by using command: python get_pip.py
+- Now you can install virtualenv y using : pip install virtualenv
+- After installing virtualenv, create virtualenvironments by using : virtuaenv env_name
+- Then activate env_name by using : env_name\Scripts\activate
+- If you want to deactivate ev_name by using : deactivate
